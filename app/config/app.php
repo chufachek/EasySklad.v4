@@ -2,7 +2,7 @@
 define('APP_NAME', 'Easy склад');
 define('APP_BASE_PATH', '');
 
-define('APP_URL', 'https://localhost');
+define('APP_URL', 'http://localhost');
 
 define('CSRF_KEY', '_csrf_token');
 
